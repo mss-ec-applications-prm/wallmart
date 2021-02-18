@@ -1,1 +1,8 @@
-hello i am from masterThis file contains deployment script...
+<<<<<Head
+hello i am from master
+-----------------
+-----------------
+hello i am from master
+>>>>>>>>>>>>>>development
+Hello I am update..
+This file contains deployment script...
